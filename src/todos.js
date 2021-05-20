@@ -47,4 +47,4 @@ const toggleTodo = id => {
 	}
 };
 
-export { getTodos, createTodo, removeTodo, toggleTodo };
+export { getTodos, createTodo, removeTodo, toggleTodo, loadTodos };
